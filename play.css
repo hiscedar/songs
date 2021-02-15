@@ -1,5 +1,6 @@
-* { margin: 0; padding: 0; }
+* { margin: 0; padding: 0; font-size: 14pt;}
 .audio_box { margin: 20pt;}
 .audio_ctl { width: 100%; }
 .img_box { width: 100%; }
 .img_ctl { width: 100%; }
+.btn { color:dodgerblue; text-decoration: none; }
